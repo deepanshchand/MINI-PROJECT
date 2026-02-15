@@ -1,2 +1,2 @@
-# EMPLOYEE PAYROLL SYSTEM
-Mini Project for Semester END 
+# Book Stall Management System
+Project Code & Report file 
